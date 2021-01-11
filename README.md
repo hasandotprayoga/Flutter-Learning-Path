@@ -39,36 +39,37 @@
 
 ### State Management + Software Dev. Related
 
-- Provider [42, 43]
-- Bloc [44, 45, 51, 54, 59, 93]
-- MobX [61]
-- Cubit [85, 89]
-- MVVM Architecture [53]
-- Unit Testing [67]
-- HTTP Request Simulation [68 - 70]
-- Bloc Testing [71, 72]
-- Cubit Testing [87]
+- Provider [[42](https://youtu.be/NNKKpECZUnw), [43](https://youtu.be/nlvD964GqWI)]
+- Bloc [[44](https://youtu.be/H5pI3_To5Ss), [45](https://youtu.be/PyJmvb34Mq0), [51](https://youtu.be/0S_8PtZeE80), [54](https://youtu.be/Owyvs-QTDks), [59](https://youtu.be/5sNTyNT9u1g), [93](https://youtu.be/4Y6933s4q2s)]
+- MobX [[61](https://youtu.be/NfcwHRRjfPA)]
+- Cubit [[85](https://youtu.be/MmaDCKrwagk), [89](https://youtu.be/2HX8rMXscAQ)]
+- MVVM Architecture [[53](https://youtu.be/5ZwNx9GG3pc)]
+- Unit Testing [[67](https://youtu.be/Qru1yr5JdIM)]
+- HTTP Request Simulation [[68](https://youtu.be/bvG8OZ287pw) - [70](https://youtu.be/RCbxU5fEKYw)]
+- Bloc Testing [[71](https://www.youtube.com/watch?v=u9Xz4HmbVkc), [72](https://www.youtube.com/watch?v=qnF1h8xxhVo)]
+- Cubit Testing [[87](https://www.youtube.com/watch?v=OmwGkZJXgXo)]
 
 ### Consuming API
 
-- HTTP Request - POST Method [36]
-- HTTP Request - GET Method [37, 38]
+- HTTP Request - POST Method [[36](https://www.youtube.com/watch?v=WJxad_6IRUc
+)]
+- HTTP Request - GET Method [[37](https://www.youtube.com/watch?v=wZMCS2W82UI), [38](https://www.youtube.com/watch?v=x5wU6ZOFLpE)]
 
 ### Authentication + Storage Option
 
-- Firebase Auth [74, 75]
+- Firebase Auth [[74](https://www.youtube.com/watch?v=N4JpBZXSGLk), [75](https://www.youtube.com/watch?v=chFOXumjAyY)]
 - Biometric Auth [[84](https://youtu.be/fT1qxaQZXRs)]
-- Firestore & Firebase Storage [76, 77]
-- Shared Preference [41]
-- Hive [57]
+- Firestore & Firebase Storage [[76](https://www.youtube.com/watch?v=Jesy4b9w9yo), [77](https://www.youtube.com/watch?v=CPUlE8Mx-Bo)]
+- Shared Preference [[41](https://www.youtube.com/watch?v=U9Mg-Ce1yv0)]
+- Hive [[57](https://www.youtube.com/watch?v=4nXD2m5LeXw)]
 
 ### Animation, Notification, MAP
 
-- Rive [65]
-- Flutter Animation [80, 81]
-- Lottie [86]
-- One Signal Notification [79]
-- HERE Map [96, 100]
+- Rive [[65](https://www.youtube.com/watch?v=3fV_andte1M)]
+- Flutter Animation [[80](https://www.youtube.com/watch?v=HozdNAjvoOg), [81](https://www.youtube.com/watch?v=ertZu6B0bt4)]
+- Lottie [[86](https://www.youtube.com/watch?v=yjk9t3jx8iw)]
+- One Signal Notification [[79](https://www.youtube.com/watch?v=Uh9i5jmvyN8)]
+- HERE Map [[96](https://www.youtube.com/watch?v=tvO1zpxu4jg), [100](https://www.youtube.com/watch?v=lBAqahINdLU)]
 
 ### Miscellaneous Topics
 
