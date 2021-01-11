@@ -20,7 +20,7 @@
 - Gesture Detector [[10](https://youtu.be/CV-l0CMiX0I?t=466)]
 - Anonymous Method [[7](https://youtu.be/t-0zsoS9Hus)]
 - List & ListView [[9](https://youtu.be/QSpSKTcR44s)]
-- Animated Container [[10] (https://youtu.be/CV-l0CMiX0I)]
+- Animated Container [[10](https://youtu.be/CV-l0CMiX0I)]
 - Spacer Widget [[14](https://youtu.be/7u7JUS49R3o)]
 - Draggable, DragTarget, SizedBox, Material [[15](https://youtu.be/sZbbKdK7U30)]
 - etc
@@ -36,7 +36,6 @@
 - Hero Animation [[25](https://youtu.be/bYkJxFPaVZk)]
 - Google Fonts [[73](https://youtu.be/HgSptswmZiU)]
 - etc. 
-[19, 20, 24, 25, 27, 56, 73]
 
 ### State Management + Software Dev. Related
 
