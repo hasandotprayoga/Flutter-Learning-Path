@@ -2,23 +2,41 @@
 
 ### Flutter Basic Knowledge
 
-- Introduction [[1](https://www.youtube.com/watch?v=sEbL9bXKI1g)]
-- My First Application [2]
-- Application Life Cycle State [82]
-- Splash Screen [83]
+- Introduction [[1](https://youtu.be/sEbL9bXKI1g)]
+- My First Application [[2](https://youtu.be/DzzFF-0U2Lw)]
+- Application Life Cycle State [[82](https://youtu.be/igb61eKTb7I)]
+- Splash Screen [[83](https://youtu.be/eYzsZLMyrac)]
 
 ### Flutter Layout + Basic Widgets 
 
-- Row, Column, Container, Stack
-- Text, Image, Gesture Detector, etc
-
-[3 - 10, 12 - 15]
+- Row & Column [[4](https://youtu.be/QBvjj5PuzLQ)]
+- Container [[5](https://youtu.be/inlgWTc0Pb4)]
+- Stack & Align [[12](https://youtu.be/fJNNZhK1wOw)]
+- Text [[3](https://youtu.be/bWtYqzaRw1U)]
+- TextStyle [[8](https://youtu.be/qjcjrNqxcQc)]
+- Image [[13](https://youtu.be/FMOXXLWEGss)]
+- Image Widget [[13](https://youtu.be/FMOXXLWEGss)]
+- Stateless & Statefull Widget [[6](https://youtu.be/dNlWzMI6CgY)]
+- Gesture Detector [[10](https://youtu.be/CV-l0CMiX0I?t=466)]
+- Anonymous Method [[7](https://youtu.be/t-0zsoS9Hus)]
+- List & ListView [[9](https://youtu.be/QSpSKTcR44s)]
+- Animated Container [[10] (https://youtu.be/CV-l0CMiX0I)]
+- Spacer Widget [[14](https://youtu.be/7u7JUS49R3o)]
+- Draggable, DragTarget, SizedBox, Material [[15](https://youtu.be/sZbbKdK7U30)]
+- etc
 
 ### Other Basic Knowledge
 
-- Navigation [16, 91, 92]
-- Responsive Design [11, 21]
-- More Basic Widgets: Text Field, Floating Action Button, Tap Bar, Dropdown Button, etc. [19, 20, 24, 25, 27, 56, 73]
+- Navigation [[16](https://youtu.be/CCNnUesNJi4), [91](https://youtu.be/YthRQZvwVao), [92](https://youtu.be/iOYjYUAGWPQ)]
+- Responsive Design [[11](https://youtu.be/Fnrn-6Zq-Kc), [21](https://youtu.be/GPbUblY_mfc)]
+- Text Field [[19](https://youtu.be/aHT7v_4UBtA), [20](https://youtu.be/O7yaoGRNY2E)]
+- Floating Action Button [[24](https://youtu.be/HWb6v8VcNnQ)]
+- Tap Bar [[27](https://youtu.be/BF_NXbdZQ3w)]
+- Dropdown Button [[56](https://youtu.be/kyu4711PvUw)]
+- Hero Animation [[25](https://youtu.be/bYkJxFPaVZk)]
+- Google Fonts [[73](https://youtu.be/HgSptswmZiU)]
+- etc. 
+[19, 20, 24, 25, 27, 56, 73]
 
 ### State Management + Software Dev. Related
 
@@ -40,7 +58,7 @@
 ### Authentication + Storage Option
 
 - Firebase Auth [74, 75]
-- Biometric Auth [84]
+- Biometric Auth [[84](https://youtu.be/fT1qxaQZXRs)]
 - Firestore & Firebase Storage [76, 77]
 - Shared Preference [41]
 - Hive [57]
@@ -58,7 +76,7 @@
 - AppBar gradasi dengan corak [17]
 - Card Widget [18]
 - Membuat Button Gradasi Opacity [22]
-- Custom Height AppBar [26]
+- Custom Height AppBar [[26](https://youtu.be/mqny9q3gyPw)]
 - Mengubah Tampilan TabBar [28]
 - Menampilkan QR Code [29]
 - Button belah ketupat (Transform) [30]
